@@ -3,12 +3,12 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> -
+  <a href="https://kireeti2001.github.io/My-Portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/kireeti-nittala/">LinkedIn</a> - 
   <a href="https://twitter.com/kireetinittala">Twitter</a> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me** 
 ✨ Aspiring Data Analyst <br>
 ⚡ Check my ✨ [Website](https://kireeti2001.github.io/My-Portfolio/)
 📫 How to reach me : kireeti.nittala@gmail.com
